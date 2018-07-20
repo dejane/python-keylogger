@@ -3,7 +3,7 @@
 This is Python coded Keylogger application. Once run it will detect all keyboard events and save it to logs. The app run automatcly on windows startup, once runed for the first time.
 
 Keylogger has FTP log functionallity. You can set you FTP credentials in code and the key pressed logs will be created on your ftp.
-App will work On Window 7, 8, 8, and 10.
+App will work On Window 7, 8, and 10.
 
 ## Requirements:
 Python
@@ -23,6 +23,7 @@ You can rename .exe file to anything you want.
 Exe file is standalone, so you can run it from any Windows computer and folder.
 To start program just double clik on run.exe file.
 The program has funcitonally to start on windows load if the computer is restarted. It will always run on startup.
+
 Termination: Kill the process in task manager. Delete the .exe file.
 
 ## Disclamer:
