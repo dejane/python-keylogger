@@ -1,0 +1,20 @@
+missing module named org - imported by copy
+missing module named fcntl - imported by tempfile, subprocess
+missing module named readline - imported by cmd, pdb
+missing module named pwd - imported by posixpath, getpass
+missing module named SOCKS - imported by ftplib
+missing module named _dummy_threading - imported by dummy_threading
+missing module named _scproxy - imported by urllib
+missing module named EasyDialogs - imported by getpass
+missing module named termios - imported by getpass
+missing module named rourl2path - imported by urllib
+missing module named 'org.python' - imported by pickle
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named posix - imported by os
+missing module named resource - imported by posix
+missing module named _sysconfigdata - imported by distutils.sysconfig
